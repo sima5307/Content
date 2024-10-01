@@ -1,0 +1,13 @@
+.container{
+	overflow: hidden;
+	margin: 0 auto;
+	
+}
+.container i{
+	font-size: 70px;
+	float: left;
+	width: 25%;
+	color: red;
+	padding: 0 3px;
+
+}
